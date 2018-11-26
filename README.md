@@ -3,6 +3,7 @@
 
 
 
+//首先可以确定的是，最短的总长度一定是n-1条边，且这n条边不能是重复的
 
     #include <iostream>
     #include <cstring>
