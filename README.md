@@ -3,11 +3,9 @@
 
 
 
-//首先可以确定的是，最短的总长度一定是n-1条边，且这n条边不能是重复的
-
     #include <iostream>
     #include <cstring>
-    using namespace std;
+    using namespace std;//首先可以确定的是，最短的总长度一定是n-1条边，且这n条边不能是重复的
 
     int p[1000];
     struct edge {
